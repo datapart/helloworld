@@ -1,2 +1,2 @@
 # helloworld
-write a short this descruption as they say.
+write a short this description as they say.
